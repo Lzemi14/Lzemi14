@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I am Zemi <br> Backend developer and currently a Final year CSE student<br>  🌱 I’m currently learning App Development <br><br> 💬 Ask me about:   MongooDB, NodeJS, DSA <br><br> 📫 How to reach me: lakkad.zemi@gmail.com
+Hey, I am Zemi <br> Backend developer and currently a Final year CSE student<br>  🌱 I’m currently learning App Development <br><br> 💬 Ask me about:   MongoDB, NodeJS, DSA <br><br> 📫 How to reach me: lakkad.zemi@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
